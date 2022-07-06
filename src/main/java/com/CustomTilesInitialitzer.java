@@ -4,6 +4,8 @@ import org.apache.tiles.TilesApplicationContext;
 import org.apache.tiles.factory.AbstractTilesContainerFactory;
 import org.apache.tiles.startup.AbstractTilesInitializer;
 
+
+// edit for verita-204
 public class CustomTilesInitialitzer extends AbstractTilesInitializer {
 
 	@Override
