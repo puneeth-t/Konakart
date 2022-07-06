@@ -3,7 +3,7 @@ package com;
 import org.apache.tiles.startup.TilesInitializer;
 import org.apache.tiles.web.startup.AbstractTilesListener;
 
-//Customtiles
+//Edited by puneeth
 
 
 public class CustomTilesListener
