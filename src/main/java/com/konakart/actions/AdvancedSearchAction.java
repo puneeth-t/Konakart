@@ -60,7 +60,7 @@ public class AdvancedSearchAction extends BaseAction
         {
             return super.handleException(request, e);
         }
-
+        // edit for CO - AUTHOR by Puneeth
     }
 
 }
