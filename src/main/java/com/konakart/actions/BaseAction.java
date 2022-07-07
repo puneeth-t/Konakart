@@ -1238,5 +1238,5 @@ public class BaseAction extends ActionSupport implements ServletRequestAware, Se
         redirectURL = redirectURL.substring(0, redirectURL.length() - servletPath.length());
         return redirectURL;
     }
-
+// edit for CO - AUTHOR by Puneeth
 }
