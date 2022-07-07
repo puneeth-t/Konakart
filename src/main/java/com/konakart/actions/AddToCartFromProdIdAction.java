@@ -276,6 +276,7 @@ public class AddToCartFromProdIdAction extends AddToCartOrWishListBaseAction
     public void setQuantityMsg(String quantityMsg)
     {
         this.quantityMsg = quantityMsg;
+        // edit for CO - AUTHOR by Puneeth
     }
 
 }
