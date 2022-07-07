@@ -19,7 +19,7 @@ import org.apache.tiles.freemarker.renderer.FreeMarkerAttributeRenderer;
 import org.apache.tiles.renderer.impl.BasicRendererFactory;
 
 public class CustomTilesContainerFactory extends BasicTilesContainerFactory {
-	
+	// edit for verita-93
 	 private static final Map<String, String> INIT;
 
 	    static {

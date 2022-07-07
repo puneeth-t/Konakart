@@ -3,8 +3,6 @@ package com;
 import org.apache.tiles.startup.TilesInitializer;
 import org.apache.tiles.web.startup.AbstractTilesListener;
 
-//Edited by puneeth
-
 
 public class CustomTilesListener
 	extends AbstractTilesListener {
@@ -14,7 +12,8 @@ public class CustomTilesListener
 		// TODO Auto-generated method stub
 		return new  CustomTilesInitialitzer();
 	}
-	  
+	//update by bhargavi  
+	//new change
 	     
 
 }
