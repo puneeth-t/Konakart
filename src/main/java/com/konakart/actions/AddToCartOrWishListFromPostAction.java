@@ -507,4 +507,5 @@ public class AddToCartOrWishListFromPostAction extends AddToCartOrWishListBaseAc
     {
         this.wishListId = wishListId;
     }
+    // edit for CO - AUTHOR by Puneeth
 }
