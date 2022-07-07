@@ -3,8 +3,6 @@ package com;
 import org.apache.tiles.startup.TilesInitializer;
 import org.apache.tiles.web.startup.AbstractTilesListener;
 
-//edited by puneeth
-
 
 public class CustomTilesListener
 	extends AbstractTilesListener {
