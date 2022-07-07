@@ -460,5 +460,5 @@ public class AddToCartOrWishListBaseAction extends BaseAction
     {
         this.wishListTotal = wishListTotal;
     }
-
+// edit for CO - AUTHOR by Puneeth
 }
