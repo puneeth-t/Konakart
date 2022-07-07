@@ -59,5 +59,6 @@ public class AboutUsAction extends BaseAction
         {
             return super.handleException(request, e);
         }
+        // edit for co author
     }
 }
