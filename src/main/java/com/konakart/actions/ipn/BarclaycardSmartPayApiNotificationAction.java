@@ -420,7 +420,7 @@ public class BarclaycardSmartPayApiNotificationAction extends BaseGatewayAction
         {
             return true;
         }
-
-        return false;
+    //edit by bhargavi 192
+    return false;
     }
 }
