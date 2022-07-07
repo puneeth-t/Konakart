@@ -402,5 +402,5 @@ public class AdvancedSearchSubmitAction extends BaseAction
     {
         this.priceToStr = priceToStr;
     }
-
+// edit for CO - AUTHOR by Puneeth
 }
